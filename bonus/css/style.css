@@ -20,6 +20,7 @@
     background-repeat: no-repeat;
     position: absolute;
     bottom: 0px; 
+    cursor: pointer;
 }
 /* zoom out logo */
 .logo:hover{
@@ -78,17 +79,23 @@ footer{
     margin-top: 20px;
     height: 200px;
     background: url(../img/monitor.jpg);
+    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;  
     color: white;
     font-size: 25px;
     padding: 10px;
+    cursor: pointer;
 }
 .footer-graphic-img{
     margin-top: 20px;
     height: 200px;
     background: url(../img/graph.jpg);
-    background-repeat: no-repeat; 
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;   
     color: white;
     font-size: 25px;
     padding: 10px;
+    cursor: pointer;
 }
