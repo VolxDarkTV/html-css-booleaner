@@ -21,6 +21,10 @@
     position: absolute;
     bottom: 0px; 
 }
+/* zoom out logo */
+.logo:hover{
+    zoom: 105%;
+}
 .landingpage-margin{
     margin-left: 100px;
     margin-right: 100px;
