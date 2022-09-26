@@ -21,6 +21,10 @@
     position: absolute;
     bottom: 0px; 
 }
+.landingpage-margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
 
 /* main part */
 main{
