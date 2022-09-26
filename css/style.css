@@ -57,3 +57,29 @@ span{
 .table-line-color{
     background-color: rgb(130, 218, 240);
 }
+.p-space{
+    margin-top: 20px;
+}
+
+/* footer */
+footer{
+    margin-left: 10px;
+}
+.footer-monitor-img{
+    margin-top: 20px;
+    height: 200px;
+    background: url(../img/monitor.jpg);
+    background-repeat: no-repeat;  
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+.footer-graphic-img{
+    margin-top: 20px;
+    height: 200px;
+    background: url(../img/graph.jpg);
+    background-repeat: no-repeat; 
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
