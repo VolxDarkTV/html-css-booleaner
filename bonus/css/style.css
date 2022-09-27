@@ -27,8 +27,8 @@
     zoom: 105%;
 }
 .landingpage-margin{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* main part */
@@ -43,16 +43,16 @@ main{
     margin-top: 20px;
 }
 
-span{
-    background-color: yellow;
-}
+
 /* ul distance */
 .distance{
     margin-top: 20px;
     margin-left: 20px;
     margin-bottom: 20px;
 }
-
+table{
+    border-collapse: collapse;
+}
 /* table color */
 #table-main-line-color{
     background-color: rgb(56, 175, 245);
