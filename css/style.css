@@ -43,7 +43,9 @@ span{
     margin-left: 20px;
     margin-bottom: 20px;
 }
-
+table{
+    border-collapse: collapse;
+}
 /* table color */
 #table-main-line-color{
     background-color: rgb(56, 175, 245);
